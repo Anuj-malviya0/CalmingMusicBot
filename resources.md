@@ -21,3 +21,6 @@ https://pypi.org/project/pexels-api/(https://www.pexels.com/)
 ### Modules
 
 https://pypi.org/project/moviepy/ ```pip install moviepy```
+
+## To install requirements
+run the following commnand ```pip install -r requirements.txt```
