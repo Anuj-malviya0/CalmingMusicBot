@@ -3,3 +3,10 @@
 #images will change every 15 secs
 #the images will be saved in the folder named "images"
 #the music will be saved in the folder named "music"
+import random
+
+vid_lenth = [5,8,10]
+def Get_length(lst):
+    #type(lst) = list
+    return random.choice(lst)
+
